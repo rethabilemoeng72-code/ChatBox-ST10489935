@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class ChatBoxST10489935 {
 
     public static void main(String[] args) {
-        Scanner sanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         Login loginSystem = new Login();
         
         System.out.println("---Register New Account---");
